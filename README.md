@@ -1,9 +1,9 @@
 ### Приветик 👋                              
 🤔 Программирую на языке ### Lua.                                                                                              
 🔭 Ебашу на Глиндейле и Холидее                                
-⚡ Full ghetto ez 23
-⚡  Famcapt player
-⚡   Kladman
+⚡ Full ghetto ez 23                                                       
+⚡  Famcapt player                                              
+⚡   Kladman                                 
 
 <!--
 **Anarchowitz/Anarchowitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
