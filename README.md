@@ -14,6 +14,8 @@
 - ⚡ Fun fact **collecting money for health treatment**
 
 <h3 align="left">Connect with me:</h3>
+Telegramm (always online) - @ni33er tag
+Discord - anarchowitz
 <p align="left">
 </p>
 
