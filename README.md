@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **all problems**
 
-- 📫 How to reach me **tg - ni33er**
+- 📫 How to reach me *under all u see my links**
 
 - ⚡ Fun fact **collecting money for health treatment**
 
