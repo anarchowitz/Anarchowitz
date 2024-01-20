@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm anarcho</h1>
-<h3 align="center">Fronted/Backend</h3>
+<h1 align="center">Hi everyone 👋, I'm anarcho</h1>
+<h3 align="center">Just boy with the desire to learn </h3>
 
 - 🔭 I’m currently working on **telegram bots, website portfolio**
 
