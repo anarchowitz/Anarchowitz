@@ -3,7 +3,7 @@
 
 dinya
 
-<h3 align="left">SocialLinks/h3>
+<h3 align="left">SocialLinks:</h3>
 Telegram - @anarchowitz
 Discord - anarchowitz
 <p align="left">
