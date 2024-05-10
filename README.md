@@ -1,9 +1,6 @@
 <h1 align="center">Stfu coder - anarcho</h1>
 <h3 align="center">What u want see there?</h3>
 
-15-ти летний школьник 9 класса
-Начал изучение питона с 1 сентебря лол кек.
-
 <h3 align="left">SocialLinks:</h3>
 Telegram - @anarchowitz
 Discord - anarchowitz
