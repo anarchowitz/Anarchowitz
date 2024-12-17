@@ -5,6 +5,7 @@
 
 
 <h3 align="left">SocialLinks:</h3>
-Telegram - @anarchowitz\nDiscord - anarchowitz
+Telegram - @anarchowitz
+Discord - anarchowitz
 <p align="left">
 </p>
