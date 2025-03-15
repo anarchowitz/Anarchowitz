@@ -13,7 +13,7 @@
 [![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git)](https://git-scm.com)
 
 ## 📊 Активность
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anarchowitz&theme=dark)](https://git.io/streak-stats)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=anarchowitz&theme=dark)](https://git.io/streak-stats)  
 
 
 ## 🚀 Ключевые проекты
