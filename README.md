@@ -25,7 +25,8 @@
 - MIT License | 98% Python
 - Активно используется на [yooma.su](https://ds.yooma.su)
 ```
-### 💸 [YoomaPay](https://t.me/yoomapay_bot)
+### 💸 [YoomaPay](https://github.com/Anarchowitz/YoomaPay)
+https://t.me/yoomapay_bot
 **Альтернативные способы оплаты продакшену**
 ```
 - Полная интеграция с CryptoBot / Telegram Stars / FunPay
