@@ -10,10 +10,6 @@
 [![Lua](https://img.shields.io/badge/Lua-Pro-2C2D72?logo=lua)](https://lua.org)
 [![C#](https://img.shields.io/badge/C%23-Advanced-239120?logo=c-sharp)](https://docs.microsoft.com/dotnet/csharp/)
 
-## 📊 Активность
-[![GitHub Streak](https://streak-stats.demolab.com?user=anarchowitz&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
-
-
 ## 🚀 Ключевые проекты
 
 ### 🎟️ [YooTick](https://github.com/Anarchowitz/YooTick) 
