@@ -9,8 +9,6 @@
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)](https://python.org)
 [![Lua](https://img.shields.io/badge/Lua-Pro-2C2D72?logo=lua)](https://lua.org)
 [![C#](https://img.shields.io/badge/C%23-Advanced-239120?logo=c-sharp)](https://docs.microsoft.com/dotnet/csharp/)
-[![SQLite](https://img.shields.io/badge/SQLite-3.43%2B-003B57?logo=sqlite)](https://sqlite.org)
-[![Git](https://img.shields.io/badge/Git-Expert-F05032?logo=git)](https://git-scm.com)
 
 ## 📊 Активность
 [![GitHub Streak](https://streak-stats.demolab.com?user=anarchowitz&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)
