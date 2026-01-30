@@ -1,6 +1,6 @@
 # 👨💻 "Anarchowitz" 
 
-**16 y.o Full-Stack Developer | Python • Lua • C#**  
+**16 y.o BackEnd Developer | Python • C#**  
 [![Telegram](https://img.shields.io/badge/Contact-@anarchowitz-2CA5E0?logo=telegram)](https://t.me/anarchowitz)
 [![GitHub](https://img.shields.io/badge/Portfolio-Anarchowitz-181717?logo=github)](https://github.com/Anarchowitz)
 
