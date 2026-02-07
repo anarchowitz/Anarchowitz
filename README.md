@@ -1,5 +1,3 @@
-# 👨‍💻 Anarchowitz
-
 <div align="center">
 
 **Backend Developer | Python • C#**  
