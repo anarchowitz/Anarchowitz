@@ -30,25 +30,23 @@
 
 ## 🚀 Key Projects
 
-### Featured Projects
+### 🏆 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[YooTick](https://github.com/Anarchowitz/YooTick)** | 🎟️ **Best TicketTool/Akemi alternative.**<br>Used on `yooma.su`. 3.4k+ lines of code. | Python |
-| **[YoomaPay](https://github.com/Anarchowitz/YoomaPay)** | 💸 **Production Payment System.**<br>Integration with CryptoBot, Stars, FunPay. 120+ txns. | Python, SQLite |
-| **[CWLC](https://github.com/anarchowitz/CWLC)** | 🎮 **Cybershoke Lobby Creator.**<br>Automated clan war lobby setup via Telegram Bot. | Python |
-| **[discord-sensor-api](https://github.com/anarchowitz/discord-sensor-api)** | 🔮 **Discord Data API.**<br>Advanced wrapper for fetching user history, avatars, and stats. | Python |
+| **[YooTick](https://github.com/Anarchowitz/YooTick)** | 🎟️ **Best TicketTool/Akemi alternative.**<br>Used on `yooma.su`. 3.4k+ LOC. | `Python` |
+| **[YoomaPay](https://github.com/Anarchowitz/YoomaPay)** | 💸 **Production Payment System.**<br>Integration with CryptoBot, Stars, FunPay. | `Python` `SQLite` |
+| **[CWLC](https://github.com/anarchowitz/CWLC)** | 🎮 **Cybershoke Lobby Creator.**<br>Automated clan war lobby setup via Telegram. | `Python` |
+| **[discord-sensor-api](https://github.com/anarchowitz/discord-sensor-api)** | 🔮 **Discord Data API.**<br>Advanced wrapper for fetching user/server data. | `Python` |
 
 ### 🔧 System & Utilities
 
-- **[ANCleaner](https://github.com/anarchowitz/ANCleaner)**  
-  🧹 **System Cleaner.** Efficiently cleans system cache, DXCache, and temporary files.
+| Utility | Description | Type |
+| :--- | :--- | :--- |
+| **[ANCleaner](https://github.com/anarchowitz/ANCleaner)** | 🧹 **System Cleaner.**<br>Efficiently cleans cache, DXCache, temp files. | `System` |
+| **[ANTweaker](https://github.com/anarchowitz/ANTweaker)** | 🚀 **Windows Optimizer.**<br>Performance tweaking. Made for WWTweak. | `Utility` |
+| **[ANChecker](https://github.com/Anarchowitz/ANChecker)** | 🔒 **Anti-Cheat Checker.**<br>GUI tool with 10+ detection methods. | `PySide6` |
 
-- **[ANTweaker](https://github.com/anarchowitz/ANTweaker)**  
-  🚀 **Windows Optimizer.** System tweaking utility for performance. Specially made for WWTweak.
-
-- **[ANChecker](https://github.com/Anarchowitz/ANChecker)**  
-  🔒 **Anti-Cheat Checker.** GUI tool (PySide6) with 10+ detection methods.
 
 ---
 
@@ -66,16 +64,5 @@
 
 - **Marketplaces:** FunPay / Fiverr
 - **Rating:** ⭐ **4.5** Average (Based on client reviews)
-- **Focus:** Python Automation, Client Bots, Nonofficial API Wrappers, Backend Systems
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Anarchowitz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anarchowitz&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff&icon_color=2CA5E0)](https://github.com/Anarchowitz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anarchowitz&layout=compact&theme=transparent&hide_border=true&title_color=3776AB&text_color=ffffff)](https://github.com/Anarchowitz)
-
+- **Focus:** Python Automation, Discord Bots, Backend Systems
 </div>
