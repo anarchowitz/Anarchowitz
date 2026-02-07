@@ -34,7 +34,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[YooTick](https://github.com/Anarchowitz/YooTick)** | 🎟️ **Best TicketTool/Akemi alternative.**<br>Used on `yooma.su`. 3.4k+ LOC. | `Python` |
+| **[YooTick](https://github.com/Anarchowitz/YooTick)** | 🎟️ **Best TicketTool/Akemi alternative.**<br>Used on `yooma.su` (also private recoded). 3.4k+ LOC. | `Python` |
 | **[YoomaPay](https://github.com/Anarchowitz/YoomaPay)** | 💸 **Production Payment System.**<br>Integration with CryptoBot, Stars, FunPay. | `Python` `SQLite` |
 | **[CWLC](https://github.com/anarchowitz/CWLC)** | 🎮 **Cybershoke Lobby Creator.**<br>Automated clan war lobby setup via Telegram. | `Python` |
 | **[discord-sensor-api](https://github.com/anarchowitz/discord-sensor-api)** | 🔮 **Discord Data API.**<br>Advanced wrapper for fetching user/server data. | `Python` |
