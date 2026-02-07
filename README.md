@@ -25,11 +25,6 @@
 - Полная интеграция с CryptoBot / Telegram Stars / FunPay
 - 120+ транзакций | Python + SQLite
 ```
-### 🤖 [AITicket](https://github.com/Anarchowitz/AITicket)
-**ИИ-ассистент для Discord**
-```
-- worst!!! need a recode!!!
-```
 ### 🔒 [ANChecker](https://github.com/Anarchowitz/ANChecker)
 **Программа для проверки на читы**
 ```
