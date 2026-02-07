@@ -1,6 +1,6 @@
 <div align="center">
 
-**Backend Developer** 
+**Backend Developer**
 *16 y.o. aspiring to join Top Tech*
 
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
