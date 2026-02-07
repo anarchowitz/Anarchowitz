@@ -30,7 +30,7 @@
 
 ## 🚀 Key Projects
 
-### � Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
